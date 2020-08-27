@@ -1,0 +1,21 @@
+{
+  "name": "jquery.ellipsis",
+  "version": "1.0.0",
+  "description": "Fork of: https://github.com/jjenzz/jquery.ellipsis",
+  "main": "jquery.ellipsis.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toolbarthomas/jquery.ellipsis.git"
+  },
+  "keywords": [
+    "jquery",
+    "ellipsis"
+  ],
+  "bugs": {
+    "url": "https://github.com/toolbarthomas/jquery.ellipsis/issues"
+  },
+  "homepage": "https://github.com/toolbarthomas/jquery.ellipsis#readme"
+}
